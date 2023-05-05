@@ -67,13 +67,13 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-HTML, CSS, Git and GitHub also Linters
+HTML, CSS, Git, GitHub and Linters
 
 
 
 ### Setup
 cd your-desired-folder
-git clone git@github.com:akbarsazish/Portfolio.git
+git clone https://github.com/Zerubabel-J
 
 
 
@@ -99,13 +99,12 @@ You can deploy it with your hosting provider of your choise.
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"> </a>  
+## 👥 Author <a name="author"> </a>  
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/akbarsazish)
-- Twitter: [@twitterhandle](https://twitter.com/AliAkbarSazish1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-akbar-sazish/)
+- GitHub: [@githubhandle](https://github.com/Zerubabel-J) 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zerubabel-jember-323785249/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -137,7 +136,7 @@ If you like this project, you are most welcome to Contribute.
 
 <!-- Acknowledgments -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank all of My colleagues and supporters.
+I am so gratfule for Microverse and my Colligues 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
